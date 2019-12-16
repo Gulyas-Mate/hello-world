@@ -1,2 +1,2 @@
 # hello-world
-I use thos as a test
+I use this as a test
